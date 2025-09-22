@@ -1,11 +1,11 @@
 # 💫 About Me:
 🎓 Aspiring Data Scientist & Developer<br>
-💻 Languages: C, C++, Python<br>
+💻 Languages: C, Python<br>
 💡 Skills: Data Structures & Algorithms (DSA), Problem-Solving, Programming<br>
-🔬 Interests: Data Science, Machine Learning, AI, and Software Development<br>🎮 Hobbies: Gaming, Gym, Singing, and Listening to Music<br><br>
-🔭 I’m currently working on enhancing my skills in data science and building personal projects with Python and C++.<br>
+🔬 Interests: Data Science, Machine Learning, AI <br>🎮 Hobbies: Gaming, Gym, Singing, and Listening to Music<br><br>
+🔭 I’m currently working on enhancing my skills in data science and building personal projects with Python <br>
 👯 I’m looking to collaborate on open-source projects related to data science, machine learning, and software development.<br>
-🤝 I’m looking for help with solving complex DSA problems and learning advanced data science techniques.<br>
+🤝 I’m looking for help with learning advanced data science techniques.<br>
 🌱 I’m currently learning data analysis, machine learning algorithms, and optimization techniques.<br>
 💬 Ask me about Python programming, DSA, or any tech-related topics!<br>
 ⚡ Fun fact: I can juggle between gaming, coding, and hitting the gym all in one day!
