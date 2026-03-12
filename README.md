@@ -20,11 +20,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,html,css" />
 </p>
-## 🧰 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode" />
-</p>
 
 ### Data Science Tools
 - Pandas  
