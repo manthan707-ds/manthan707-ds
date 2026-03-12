@@ -35,9 +35,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-### Tools
-- Power BI
-- ChatGPT
 ---
 
 ## 📂 Featured Projects
