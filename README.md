@@ -26,6 +26,14 @@
 - NumPy  
 - Matplotlib  
 - Scikit-learn
+- ## 🧰 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,sklearn,vscode,numpy,pandas,mysql,anaconda,matplotlib,html&perline=6" />
+</p>
+
+### Tools
+- Power BI
+- ChatGPT
 ---
 
 ## 📂 Featured Projects
