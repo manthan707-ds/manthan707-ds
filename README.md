@@ -18,7 +18,7 @@
 
 ## 🧰 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,html,css" />
+<img src="https://skillicons.dev/icons?i=python,git,github,html," />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
