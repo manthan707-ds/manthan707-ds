@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Manthan+Ghodkhande;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+ML+Projects+with+Python" />
 </p>
-<h1 align="center">Hi 👋, I'm Manthan</h1>
+
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 ---
