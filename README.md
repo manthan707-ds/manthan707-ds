@@ -71,11 +71,6 @@ Data visualization and pattern discovery.
 
 ---
 
-## 📈 Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=manthan707-ds&theme=react-dark)
-
----
 
 ## 🌱 Currently Learning
 
@@ -89,8 +84,8 @@ Data visualization and pattern discovery.
 ## 🤝 Connect With Me
 
 - GitHub
-- LinkedIn
-- YouTube (coming soon)
+- LinkedIn "https://www.linkedin.com/in/manthan-ghodkhande/"
+
 
 ---
 
