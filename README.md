@@ -71,12 +71,13 @@ Analyzed engagement patterns across posting times using Pandas time-based groupi
 
 
 
-## 🌱 Currently Learning
+## 🌱 Currently Working On
 
-- Machine Learning Algorithms
-- Data Visualization
-- Feature Engineering
-- Model Evaluation
+- 🏗️ Building more end-to-end ML projects with **real datasets**
+- 📉 Improving model accuracy using **Feature Engineering & Hyperparameter Tuning**
+- 🧠 Deepening knowledge of **Classification, Regression & Clustering algorithms**
+- 📊 Learning **Power BI dashboards** for data storytelling
+- 🚀 Exploring **Deep Learning basics** with TensorFlow
 
 ---
 
