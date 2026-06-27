@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Manthan+Ghodkhande;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+ML+Projects+with+Python" />
 </p>
 
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
-
+<h3 align="center">Data Science Student | Building ML models & real-world prediction apps with Python | Open to internships & collaborations
 ---
 
 ## 🚀 About Me
