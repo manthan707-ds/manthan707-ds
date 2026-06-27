@@ -9,11 +9,13 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Data Science learner
-- 💻 Programming in **Python, C, C++**
-- 📊 Interested in **Machine Learning, AI, and Data Analysis**
-- 🧠 Currently learning **Machine Learning & Data Science**
-- 🏋️ Gym enthusiast
+
+- 🎓 Pursuing Data Science — focused on turning raw data into useful predictions
+- 🤖 Built end-to-end ML projects including a **live Streamlit web app** for house price prediction
+- 📊 Skilled in the full data pipeline: cleaning → EDA → model training → deployment
+- 💻 Programming in **Python**, with hands-on experience in **Scikit-Learn, Pandas, NumPy, Seaborn**
+- 🔍 Currently improving in **Feature Engineering & Model Evaluation**
+- 🎯 Goal: Land a Data Science internship and contribute to real-world ML problems
 
 ---
 
