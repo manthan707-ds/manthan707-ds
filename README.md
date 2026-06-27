@@ -53,14 +53,19 @@
 
 ## 📂 Featured Projects
 
-🔹 **Titanic Survival Prediction**  
-Machine Learning model predicting passenger survival.
 
-🔹 **Data Cleaning with Python**  
-Real dataset cleaning using Pandas.
 
-🔹 **Exploratory Data Analysis**  
-Data visualization and pattern discovery.
+🔹 **[House Price Prediction App](https://github.com/manthan707-ds/house-price-prediction-app)**
+End-to-end ML app using Random Forest on the Ames Housing dataset (5 key features: living area, quality, basement, garage, year built). Deployed live on Streamlit — users enter house details and get an instant price prediction.
+`Python` `Scikit-Learn` `Streamlit` `Pandas` `Seaborn`
+
+🔹 **[Titanic Survival Prediction](https://github.com/manthan707-ds/titanic-survival-prediction)**
+Built and compared Decision Tree vs Random Forest classifiers on 891 passenger records. Applied feature engineering on Age, Fare, and Embarked columns. Random Forest outperformed Decision Tree with better accuracy on the test set.
+`Python` `Scikit-Learn` `Pandas` `Matplotlib`
+
+🔹 **[Social Media Engagement Analysis](https://github.com/manthan707-ds/Social-Media-Engagement-Analysis)**
+Analyzed engagement patterns across posting times using Pandas time-based grouping. Identified the best day and hour to post for maximum reach, and visualized all trends with charts.
+`Python` `Pandas` `Matplotlib`
 
 ---
 
