@@ -4,6 +4,8 @@
 </p>
 
 <h3 align="center">Data Science Student | Building ML models & real-world prediction apps with Python | Open to internships & collaborations
+
+ 
 ---
 
 ## 🚀 About Me
