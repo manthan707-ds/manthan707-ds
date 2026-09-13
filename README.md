@@ -1,32 +1,4 @@
-![banner](1.png)
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Manthan+Ghodkhande;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+ML+Projects+with+Python" />
-</p>
 
-<h3 align="center">Data Science Student | Building ML models & real-world prediction apps with Python | Open to internships & collaborations
-
- 
----
---------------------------------------------------------------------------------------------------
-<table>
-<tr>
-<td width="60%">
-
-# Hi, I'm Manthan 👋
-
-**Aspiring Data Scientist** building ML models and real-world prediction apps with Python.
-
-Currently open to internships & collaborations.
-
-📫 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) &nbsp;|&nbsp; [Email](mailto:YOUR_EMAIL) &nbsp;|&nbsp; [GitHub](https://github.com/YOUR_USERNAME)
-
-</td>
-<td width="40%">
-<img src="1.png" width="100%">
-</td>
-</tr>
-</table>
-------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img src="1.png" alt="banner" width="100%">
 </p>
@@ -49,7 +21,6 @@ Currently open to internships & collaborations.
 </p>
 
 <br>
-------------------------------------------------------------------------------------------------------------
 
 
 ## 🚀 About Me
