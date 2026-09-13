@@ -50,6 +50,8 @@ Currently open to internships & collaborations.
 
 <br>
 ------------------------------------------------------------------------------------------------------------
+
+
 ## 🚀 About Me
 
 - 🎓 Pursuing Data Science — focused on turning raw data into useful predictions
