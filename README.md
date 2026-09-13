@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/manthan-ghodkhande/">LinkedIn</a> ·
   <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
+  <a href="https://github.com/manthan707-ds">GitHub</a> ·
   <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
 </p>
 
