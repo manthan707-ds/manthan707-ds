@@ -19,6 +19,9 @@
 
 ---
 ## 🧰 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,html," />
+</p>
 
 ### 💻 Programming & Web Development
 
