@@ -20,7 +20,7 @@
 ---
 ## 🧰 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=python,git,github,html," />
+<img src="https://skillicons.dev/icons?i=python,git,github,ml," />
 </p>
 
 ### 💻 Programming & Web Development
