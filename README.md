@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="1.png" alt="banner" width="100%">
+  <img src="2.png" alt="banner" width="100%">
 </p>
 
 <h1 align="center">Manthan Ghodkhande</h1>
