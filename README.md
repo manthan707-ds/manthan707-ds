@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="2.png" alt="banner" width="100%">
 </p>
@@ -6,7 +5,7 @@
 <h1 align="center">Manthan Ghodkhande</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+ML+Projects+with+Python&random=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3CFFBE&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+ML+Projects+with+Python&random=false" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +18,6 @@
   <a href="https://github.com/manthan707-ds">GitHub</a> ·
   <a href="https://manthan-portfolio-phi.vercel.app/">Portfolio</a>
 </p>
-
 <br>
 
 
