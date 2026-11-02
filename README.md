@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/manthan-ghodkhande/">LinkedIn</a> ·
   <a href="mailto:YOUR_EMAIL">Email</a> ·
   <a href="https://github.com/manthan707-ds">GitHub</a> ·
-  <a href="[https://YOUR_PORTFOLIO.com](https://manthan-portfolio-phi.vercel.app/)">Portfolio</a>
+  <a href="https://manthan-portfolio-phi.vercel.app/">Portfolio</a>
 </p>
 
 <br>
